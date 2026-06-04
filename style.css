@@ -1,11 +1,8 @@
 :root {
   --bg: #180922;
-  --fg: #1a1a1a;
-  --muted: #666;
-  --accent: #d63a30;
-}
-@media (prefers-color-scheme: dark) {
-  :root { --bg: #111; --fg: #f0ede5; --muted: #999; --accent: #ff5b50; }
+  --fg: #f0ede5;
+  --muted: #b8b1c8;
+  --accent: #ff5b50;
 }
 
 * { box-sizing: border-box; }
